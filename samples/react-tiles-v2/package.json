@@ -17,12 +17,12 @@
     "@microsoft/sp-office-ui-fabric-core": "1.11.0",
     "@microsoft/sp-property-pane": "1.11.0",
     "@microsoft/sp-webpart-base": "1.11.0",
-    "@pnp/graph": "^2.2.0",
-    "@pnp/sp": "^2.2.0",
+    "@pnp/graph": "^2.14.0",
+    "@pnp/sp": "^2.14.0",
     "@pnp/spfx-controls-react": "2.6.0",
     "@pnp/spfx-property-controls": "2.4.0",
-    "office-ui-fabric-react": "^7.164.2",
-    "typestyle": "^2.0.2"
+    "office-ui-fabric-react": "^7.201.0",
+    "typestyle": "^2.4.0"
   },
   "devDependencies": {
     "@microsoft/sp-build-web": "1.11.0",

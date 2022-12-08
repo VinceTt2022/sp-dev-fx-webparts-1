@@ -6,7 +6,8 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "scripts": {
+  "scripts": {    
+    "dev": "set NODE_NO_HTTP2=1&& gulp serve",
     "build": "gulp bundle",
     "clean": "gulp clean",
     "test": "gulp test",
